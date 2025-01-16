@@ -1,0 +1,8 @@
+{
+  "require": {
+    "overtrue/php-opencc": "^1.2",
+    "ext-dom": "*",
+    "ext-zip": "*",
+    "ext-simplexml": "*"
+  }
+}
